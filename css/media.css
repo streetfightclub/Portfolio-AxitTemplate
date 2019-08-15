@@ -1,0 +1,262 @@
+/* combined by CSScomb */
+@media screen and (max-width: 1200px)
+{
+    .main__contact-form textarea
+    {
+        width: 450px;
+    }
+}
+@media screen and (max-width: 1100px)
+{
+    .main__contact-form textarea
+    {
+        width: 350px;
+    }
+}
+@media screen and (max-width: 1000px)
+{
+    .main__sublist-section
+    {
+        flex-direction: column;
+
+        justify-content: center;
+        -ms-align-items: center;
+            align-items: center;
+    }
+    .main__sublist-img
+    {
+        width: initial;
+    }
+    .main__sublist-img img
+    {
+        right: 0;
+    }
+    .main__standart-img img
+    {
+        left: 0;
+    }
+    .main__sublist-text
+    {
+        padding-left: 50px;
+    }
+    .main__standart-picture .container
+    {
+        flex-direction: column;
+
+        -ms-align-items: center;
+            align-items: center;
+        justify-content: center;
+    }
+    .main__standart-img
+    {
+        width: initial;
+        padding-top: 50px;
+    }
+    .main__standart-text
+    {
+        max-width: 100%;
+        padding-left: 50px;
+    }
+    .main__contact-form
+    {
+        flex-direction: column;
+
+        justify-content: center;
+        -ms-align-items: center;
+            align-items: center;
+    }
+    .main__contact-form textarea
+    {
+        margin-left: 20px;
+        padding-top: 50px;
+    }
+    .main__contact-person-descr input
+    {
+        width: 400px;
+    }
+}
+@media screen and (max-width: 850px)
+{
+    .main__tab-pane
+    {
+        flex-direction: column;
+    }
+    .main__tab-content-img
+    {
+        margin-top: 50px;
+    }
+}
+@media screen and (max-width: 800px)
+{
+    .main__pricing-options
+    {
+        flex-direction: column;
+
+        -ms-align-items: center;
+            align-items: center;
+    }
+    .main__pricing-option
+    {
+        margin-bottom: 30px;
+    }
+    .login__content
+    {
+        flex-direction: column;
+
+        justify-content: center;
+        -ms-align-items: center;
+            align-items: center;
+    }
+    .login__authorization
+    {
+        width: initial;
+        padding-bottom: 50px;
+    }
+    .login__info
+    {
+        width: initial;
+    }
+}
+@media screen and (max-width: 767px)
+{
+    #navbarNav ul li + li
+    {
+        margin-left: 0;
+    }
+}
+@media screen and (max-width: 760px)
+{
+    .main__about-posibiliti
+    {
+        flex-direction: column;
+    }
+    .menu ul li
+    {
+        margin: 0;
+        padding: 0;
+        padding-top: 5px;
+    }
+    .main__contact-form textarea
+    {
+        width: 400px;
+    }
+}
+@media screen and (max-width: 600px)
+{
+    .main__social-icon
+    {
+        font-size: 26px;
+    }
+    .main__social-icons li
+    {
+        padding-top: 0;
+    }
+    .main__social-icons
+    {
+        margin-left: 20px;
+        padding-top: 20px;
+    }
+    .main__social-icons li + li
+    {
+        padding-left: 5px;
+    }
+    .icon-1
+    {
+        padding-right: 8px !important;
+    }
+    .tab-content
+    {
+        margin-left: 20px;
+    }
+    .main__contact-form textarea
+    {
+        width: 400px;
+    }
+}
+@media screen and (max-width: 550px)
+{
+    .main__sublist-img img
+    {
+        width: 325px;
+        height: 175px;
+    }
+    .main__standart-img img
+    {
+        width: 325px;
+        height: 175px;
+    }
+}
+@media screen and (max-width: 500px)
+{
+    .main__contact-person-descr input
+    {
+        width: 150px;
+    }
+    .main__contact-message textarea
+    {
+        width: 150px;
+    }
+}
+@media screen and (max-width: 400px)
+{
+    .login__form
+    {
+        width: 203px;
+    }
+    .login__form input
+    {
+        width: 150px;
+        margin-left: 30px;
+    }
+    .main__tab-content-img img
+    {
+        visibility: hidden;
+    }
+    .main__tab-content-text h3
+    {
+        font-size: 14px;
+    }
+    .main__tab-content-text p
+    {
+        font-size: 10px;
+    }
+    .main__tab-pane
+    {
+        flex-direction: row;
+    }
+    .main__download-btn
+    {
+        padding: 5px 15px 5px 15px;
+    }
+    .main__sublist-img img
+    {
+        width: 225px;
+        height: 105px;
+    }
+    .main__standart-img img
+    {
+        width: 225px;
+        height: 105px;
+    }
+    .main__pricing-option
+    {
+        width: 200px;
+    }
+    .footer__social-media ul
+    {
+        flex-direction: column;
+    }
+    .footer__social-media ul li + li
+    {
+        margin: 0;
+        padding: 0;
+    }
+    .footer__social-media ul li:after
+    {
+        font-size: 32px;
+    }
+    .main__social-icons
+    {
+        margin-left: 6px;
+    }
+}
